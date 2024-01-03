@@ -1,4 +1,4 @@
-module go-proto-reflect-validators
+module github.com/bafflingbug/go-proto-reflect-validators
 
 go 1.20
 
